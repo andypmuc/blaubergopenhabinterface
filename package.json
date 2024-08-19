@@ -1,0 +1,17 @@
+{
+  "name": "blaubergopenhabinterface",
+  "version": "1.0.0",
+  "description": "Blauberg Vento JS OpenHAB integration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "blaubergopenhabinterface": "file:",
+    "blaubergopenhabjs": "^1.0.0-alpha.1"
+  }
+}
