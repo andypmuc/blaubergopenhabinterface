@@ -6,6 +6,8 @@ This is the first draft and everyone is invited to participated.
 
 ## Installation
 
+Download the files and execute npm install in the directory to download the libraries. (Install JS Node first)
+
 Configure the script variables in the first lines.
 
 Create an OpenHAB thing according to the thing code below.
